@@ -1,0 +1,79 @@
+[
+    {
+      "id": 4,
+      "img":"image4.png",
+      "name": "Alec Whitten",
+      "date": "17 jan 2022",
+      "title": "Bill Walsh leadership lessons",
+      "description": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+      "hashtags": [
+        { "id": "Purple", "tag": "Leadership" },
+        { "id": "Indigo", "tag": "Research" }   
+      ]
+    },
+
+    {
+      "id": 5,
+      "img":"image5.png",
+      "name": "Demi Wilkinson",
+      "date": "16 jan 2022",
+      "title": "PM mental models",
+      "description": "Mental models are simple expressions of complex processes or relationships.",
+      "hashtags": [
+        { "id": "Blue", "tag": "Design" },
+        { "id": "Pink", "tag": "Research" },
+        { "id": "Pink", "tag": "Presentation" }
+      ]
+    },
+
+    {
+      "id": 6,
+      "img":"image6.png",
+      "name": "Candice Wu",
+      "date": "15 jan 2022",
+      "title": "What is wireframing?",
+      "description": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+      "hashtags": [
+        { "id": "Blue", "tag": "Design" },
+        { "id": "Pink", "tag": "Research" }
+      
+      ]   
+    },
+    {
+      "id": 7,
+      "img":"image7.png",
+      "name": "Natali Craig",
+      "date": "14 jan 2022",
+      "title": "How collaboration makes us better designers",
+      "description": "Collaboration can make our teams stronger, and our individual designs better.",
+      "hashtags": [
+        { "id": "Blue", "tag": "Design" },
+        { "id": "Pink", "tag": "Research" }
+        ]    
+    },
+   {
+      "id": 8,
+      "img":"image8.png",
+      "name": "Drew Cano",
+      "date": "13 jan 2022",
+      "title": "Our top 10 Javascript frameworks to use",
+      "description": "JavaScript frameworks make development easy with extensive features and functionalities.",
+      "hashtags": [
+        { "id": "Blue", "tag": "Software Development" },
+        { "id": "Pink", "tag": "Tools" },
+        { "id": "Pink", "tag": "SaaS" }
+        ]    
+    },
+   {
+      "id": 9,
+      "img":"image9.png",
+      "name": "Orlando Diggs",
+      "date": "12 jan 2022",
+      "title": "Podcast: Creating a better CX Community",
+      "description": "Starting a community doesn’t need to be complicated, but how do you get started?",
+      "hashtags": [
+        { "id": "Blue", "tag": "Podcasts" },
+        { "id": "Pink", "tag": "Customer Success" }
+        ]    
+    } 
+]
